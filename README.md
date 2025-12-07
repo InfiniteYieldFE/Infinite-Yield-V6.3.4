@@ -2,7 +2,7 @@
 The best command line script for roblox.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfiniteYieldFE/Infinite-Yield-V/refs/heads/main/source.txt"))()
 ```
 
  - Currently 400 commands
